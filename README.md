@@ -7,17 +7,11 @@ The goal of this project is to produce a soil moisture logging system with both 
 # Background
 
 Existing Soil Moisture Systems
-- Lab
-	Soil can be weighed before and after allowing the water to evaporate from it. This method requires removing soil and is difficult to use without precise equipment.
-- Aerial
-	UAVs equipped with multispectral and infrared cameras can determine soil water content. Aerial evaluation is only applicable to outdoor areas, and the plants we work with are houseplants. 
-- Satellite
-	Satellite imagery can evaluate moisture levels based on crop conditions and return this information to an app. Again, this method would not work on the small scale of our inside plants.
-- Ground
-	The method of measuring soil water content most applicable to our project is the ground sensor. Tension sensors, gypsum blocks, gamma rays, neutron probes; 
-These probes can be permanently embedded or temporarily placed, but they often require specialists to determine location, depth, and frequency of data collection. 
-
-Obviously, none of the existing methods of checking soil moisture had the features we sought, so we needed to create our own cost-effective design that could easily be implemented on a small scale indoors.
+- Lab: Soil can be weighed before and after allowing the water to evaporate from it. This method requires removing soil and is difficult to use without precise equipment.
+- Aerial: UAVs equipped with multispectral and infrared cameras can determine soil water content. Aerial evaluation is only applicable to outdoor areas, and the plants we work with are houseplants. 
+- Satellite: Satellite imagery can evaluate moisture levels based on crop conditions and return this information to an app. Again, this method would not work on the small scale of our inside plants.
+- Ground: The method of measuring soil water content most applicable to our project is the ground sensor. Tension sensors, gypsum blocks, gamma rays, neutron probes; these probes can be permanently embedded or temporarily placed, but they often require specialists to determine location, depth, and frequency of data collection.
+- Obviously, none of the existing methods of checking soil moisture had the features we sought, so we needed to create our own cost-effective design that could easily be implemented on a small scale indoors.
 
 # Hardware
 ## Supplies Used
